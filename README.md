@@ -1,5 +1,4 @@
 Hi, I'm simone.  
-**_Professional bean_**
 
 soycan stands for _soy cangrejito_.
 
