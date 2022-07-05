@@ -8,6 +8,7 @@ soycan stands for _soy cangrejito_.
   
 Active projects:
 - [soycan-sim/license-tools](https://github.com/soycan-sim/license-tools)
+- [soycan-sim/todo-app](https://github.com/soycan-sim/todo-app)
 
 ![](https://raw.githubusercontent.com/soycan-sim/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/soycan-sim/github-stats/master/generated/overview.svg#gh-light-mode-only)
